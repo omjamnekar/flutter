@@ -1,0 +1,44 @@
+[
+    {
+        "rating": "4.5",
+        "title": "THE WATER CURE",
+        "text": "Martin Hyatt",
+        "img": "image/assets/song2.jpeg",
+        "audio": "audio/voice1.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "PEACE LIFE",
+        "text": "Martin Hyatt",
+        "img": "image/assets/song3.jpeg",
+        "audio": "audio/voice2.mp3"
+    },
+    {
+        "rating": "4.7",
+        "title": "",
+        "text": "Nichlos",
+        "img": "image/assets/song4.jpeg",
+        "audio": "audio/voice3.mp3"
+    },
+    {
+        "rating": "4.2",
+        "title": "France",
+        "text": "Paris",
+        "img": "image/assets/song5.jpeg",
+        "audio": "audio/voice4.mp3"
+    },
+    {
+        "rating": "4.8",
+        "title": "THE WATER CURE",
+        "text": "Martin Hyatt",
+        "img": "image/assets/song6.jpeg",
+        "audio": "audio/voice5.mp3"
+    },
+    {
+        "rating": "4.4",
+        "title": "THE WATER CURE",
+        "text": "Martin Hyatt",
+        "img": "image/assets/song7.jpeg",
+        "audio": "audio/voice6.mp3"
+    }
+]
